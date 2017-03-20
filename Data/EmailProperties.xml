@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+
+<properties>
+	
+	<entry key ="SMTP_HOST_NAME">132.245.243.226</entry>
+	<entry key ="SMTP_PORT">587</entry>
+	<entry key ="reportType">Basic</entry>
+	<entry key ="recipients">prashanth.veldandi@gqaustralia.edu.au,qateam@gqaustralia.edu.au</entry>
+	<entry key ="subject">GQA Automation Report</entry>
+	<entry key ="from">gqa.automation@gqaustralia.edu.au</entry>
+	
+</properties>

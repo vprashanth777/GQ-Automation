@@ -1,0 +1,25 @@
+2017-03-20 15:17:48,789 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name null
+2017-03-20 15:17:48,792 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 15:18:49,608 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name null
+2017-03-20 15:18:49,611 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 16:44:57,461 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name null
+2017-03-20 16:44:57,472 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 16:48:46,694 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name Firefox
+2017-03-20 16:48:46,697 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 16:53:50,597 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name Chrome
+2017-03-20 16:53:50,600 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 16:55:30,469 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name Chrome
+2017-03-20 16:55:30,472 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 16:55:44,242 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution started
+2017-03-20 16:55:44,499 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - User Navigate to the GQWebURL GQWEB
+2017-03-20 16:55:55,577 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Page title validation is successfull after URl navigation
+2017-03-20 17:05:42,924 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name Chrome
+2017-03-20 17:05:42,928 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 17:05:49,010 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution started
+2017-03-20 17:05:49,092 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - User Navigate to the GQWebURL GQWEB
+2017-03-20 17:07:11,390 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name Chrome
+2017-03-20 17:07:11,393 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
+2017-03-20 17:07:16,869 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution started
+2017-03-20 17:07:16,959 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - User Navigate to the GQWebURL GQWEB
+2017-03-20 17:19:42,338 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Browser name Firefox
+2017-03-20 17:19:42,341 [main] INFO cucumber.Framework.CommanStepDefinations.Initialization - Execution will be begin on Environment  Windows
